@@ -1,1 +1,2 @@
-I'm impostor python engineer
+#最短距離でゼロからしっかり学ぶPython入門
+#####※自習用
